@@ -2,7 +2,7 @@
 #### I am Backend Developer
 Passionate about programming and mathematics, I self-taught myself in backend development with Java. I am currently looking for my first job as a backend developer so that I can continue to grow constantly and not stop learning.
 
-Skills: JAVA / SPRING BOOT / SQL / GITHUB / API - API REST/ LINUX / HTML
+Skills: JAVA / SPRING BOOT / SQL / GITHUB / API - API REST / LINUX / HTML
 
 - 🔭 I’m currently working on projects with java / spring boot 
 - 🌱 I’m currently learning how does everything programmable work 
